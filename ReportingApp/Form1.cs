@@ -25,7 +25,6 @@ namespace ReportingApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            var asd = 0;
             var tuple = DataHelpers.GetDatas();
             var reasonForPostures = tuple.Item1;
             var reasons = tuple.Item2;
