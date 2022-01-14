@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportingApp", "ReportingApp\ReportingApp.csproj", "{B96E1307-BA38-433A-ABBE-7D8A556C147E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B96E1307-BA38-433A-ABBE-7D8A556C147E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96E1307-BA38-433A-ABBE-7D8A556C147E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96E1307-BA38-433A-ABBE-7D8A556C147E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96E1307-BA38-433A-ABBE-7D8A556C147E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA50DA6-08A1-4712-9A29-0B645721E593}
+	EndGlobalSection
+EndGlobal
